@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import { Inter } from '@next/font/google'
 import { DemoForm } from 'components/forms/demo'
+import StudentDashboard from 'components/Dashboard/Staffs/index'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -14,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <DemoForm/>
+        <StudentDashboard />
       </main>
     </>
   )
