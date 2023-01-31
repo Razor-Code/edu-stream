@@ -7,6 +7,7 @@ interface FormInputProps {
     value?: string | number | readonly string[],
     onChange?: ChangeEventHandler<HTMLInputElement>
 }
+
 export function FormInput({ label, id, type, value, onChange }: FormInputProps) {
     return (
         <div className="relative mb-4">
