@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "name": "Pranshu Jha",
+            "roll": "202101103",
+            "email": "pranshujha@university.com",
+            "phone": "1234567890",
+            "address": "B-101, ABC Apartment, XYZ Road, City, State, Country",
+            "password": "pass@123"
+        },
+        {
+            "name": "Rahul B",
+            "roll": "202101108",
+            "email": "rahulb@university.com",
+            "phone": "9998882813",
+            "address":"XYZ Lane, ABC Road, City, State, Country",
+            "password": "test@123"
+        }
+    ]
+}
